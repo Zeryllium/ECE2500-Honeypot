@@ -1,4 +1,4 @@
 ./venv
 .idea
 suricata_alert.zip
-./suricata_alert/suricata_alert.json
+/suricata_alert/suricata_alert.json
